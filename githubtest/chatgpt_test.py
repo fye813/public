@@ -40,3 +40,6 @@ print(response_data["choices"][0]["message"]["content"])
 #this is change
 #aaaaaaa
 
+#change2
+#aaaaaaaaaaa
+#a
